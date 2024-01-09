@@ -1,0 +1,15 @@
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\bin\Debug\Question4.exe.config
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\bin\Debug\Question4.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\bin\Debug\Question4.pdb
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\bin\Debug\EntityFramework.dll
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\bin\Debug\EntityFramework.xml
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\obj\Debug\Question4.csproj.AssemblyReference.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\obj\Debug\Question4.Form1.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\obj\Debug\Question4.Properties.Resources.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\obj\Debug\Question4.csproj.GenerateResource.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\obj\Debug\Question4.csproj.CoreCompileInputs.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\obj\Debug\Question4.csproj.CopyComplete
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\obj\Debug\Question4.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Fall 2023\Multi-tier Applications Development\code ado.net\Final Exam\FinalExam\Question4\Question4\obj\Debug\Question4.pdb
